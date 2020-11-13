@@ -1,5 +1,5 @@
 {
-  "name": "siphash.php",
+  "name": "SipHash.php",
   "description": "SipHash PHP implementation (-2-4 so far)",
   "version": "0.0.1",
   "author": {
@@ -14,7 +14,7 @@
     "PHP"
   ],
   "files": [
-    "src/siphash.php",
+    "src/SipHash.php",
     "README.md",
     "composer.json",
     "LICENSE"
@@ -29,7 +29,7 @@
   "verup": {
     "files": [
       "composer.json",
-      "src/siphash.php",
+      "src/SipHash.php",
       "LICENSE",
       "README.md"
     ],

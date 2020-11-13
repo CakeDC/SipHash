@@ -13,10 +13,10 @@ composer require duzun/siphash
 
 ### Vanilla PHP (no composer)
 
-Copy `src/siphash.php` to your project, then
+Copy `src/SipHash.php` to your project, then
 
 ```php
-require_once 'src/siphash.php';
+require_once 'src/SipHash.php';
 ```
 
 

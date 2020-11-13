@@ -18,7 +18,7 @@ if ( file_exists(ROOT_DIR . 'vendor/autoload.php') ) {
     require_once ROOT_DIR . 'vendor/autoload.php';
 }
 else {
-    require_once ROOT_DIR . 'src/siphash.php';
+    require_once ROOT_DIR . 'src/SipHash.php';
 }
 // -----------------------------------------------------
 // -----------------------------------------------------
